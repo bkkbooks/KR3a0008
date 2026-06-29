@@ -1,0 +1,227 @@
+canonical_identifier: bkk:krp/KR3a0008/krp/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3a0008_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書子部一新序儒家類提要臣等謹案新序十卷漢}
+  - {type: page-break, offset: 0, content: '', id: KR3a0008_WYG_000-1a, image: WYG0696/WYG0696-0187a.png}
+  - {type: variant, offset: 2, length: 0, content: '', WYG: 撰向字子政初名更生以父任為輦郎歴官中壘校尉事蹟具漢書本傳案班固漢書藝文志稱向所序六十七篇}
+  - {type: variant, offset: 4, length: 2, content: 目錄, WYG: 說苑世說列女傳頌圖也隋書經籍志新序三十}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3a0008_SBCK_000-1a02}
+  - {type: indent, offset: 0, content: 　　, id: KR3a0008_krp_000-bkkind1}
+  - {type: variant, offset: 1, length: 4, content: 第一雜事, WYG: 録}
+  - {type: indent, offset: 3, content: 　, id: KR3a0008_krp_000-bkkind2}
+  - {type: indent, offset: 6, content: 　, id: KR3a0008_krp_000-bkkind3}
+  - {type: variant, offset: 7, length: 20, content: 第二雜事二卷第三雜事三卷第四雜事四卷第五, WYG: 唐書藝文志亦同曽鞏校書序則云今可見者十篇鞏與歐陽修同時而所言巻帙懸殊葢修志皆據唐時全本為言鞏所校録則宋初殘闕之本也晁公武謂曽子固綴輯散逸新序始復全者誤矣此本}
+  - {type: page-break, offset: 7, content: '', id: KR3a0008_WYG_000-1b, image: WYG0696/WYG0696-0187b.png}
+  - {type: indent, offset: 9, content: 　, id: KR3a0008_krp_000-bkkind4}
+  - {type: 'kr:newline', offset: 12, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 12, content: '', id: KR3a0008_SBCK_000-1a03}
+  - {type: indent, offset: 12, content: 　　, id: KR3a0008_krp_000-bkkind5}
+  - {type: indent, offset: 15, content: 　, id: KR3a0008_krp_000-bkkind6}
+  - {type: indent, offset: 18, content: 　, id: KR3a0008_krp_000-bkkind7}
+  - {type: indent, offset: 21, content: 　, id: KR3a0008_krp_000-bkkind8}
+  - {type: 'kr:newline', offset: 24, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 24, content: '', id: KR3a0008_SBCK_000-1a04}
+  - {type: indent, offset: 24, content: 　　, id: KR3a0008_krp_000-bkkind9}
+  - {type: indent, offset: 27, content: 　, id: KR3a0008_krp_000-bkkind10}
+  - {type: indent, offset: 30, content: 　, id: KR3a0008_krp_000-bkkind11}
+  - {type: variant, offset: 31, length: 3, content: 第六剌, WYG: 刺}
+  - {type: indent, offset: 33, content: 　, id: KR3a0008_krp_000-bkkind12}
+  - {type: 'kr:newline', offset: 35, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 35, content: '', id: KR3a0008_SBCK_000-1a05}
+  - {type: indent, offset: 35, content: 　　, id: KR3a0008_krp_000-bkkind13}
+  - {type: variant, offset: 35, length: 0, content: '', WYG: 一}
+  - {type: variant, offset: 36, length: 2, content: 第七, WYG: ''}
+  - {type: indent, offset: 38, content: 　, id: KR3a0008_krp_000-bkkind14}
+  - {type: variant, offset: 40, length: 1, content: 上, WYG: 二}
+  - {type: indent, offset: 41, content: 　, id: KR3a0008_krp_000-bkkind15}
+  - {type: variant, offset: 42, length: 8, content: 第八節士下卷第九, WYG: ''}
+  - {type: indent, offset: 44, content: 　, id: KR3a0008_krp_000-bkkind16}
+  - {type: 'kr:newline', offset: 47, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 47, content: '', id: KR3a0008_SBCK_000-1a06}
+  - {type: indent, offset: 47, content: 　　, id: KR3a0008_krp_000-bkkind17}
+  - {type: indent, offset: 50, content: 　, id: KR3a0008_krp_000-bkkind18}
+  - {type: variant, offset: 52, length: 1, content: 上, WYG: 二}
+  - {type: indent, offset: 53, content: 　, id: KR3a0008_krp_000-bkkind19}
+  - {type: variant, offset: 54, length: 6, content: 第十善謀下古, WYG: 即曽鞏校定}
+  - {type: indent, offset: 56, content: 　, id: KR3a0008_krp_000-bkkind20}
+  - {type: 'kr:newline', offset: 59, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 59, content: '', id: KR3a0008_SBCK_000-1a07}
+  - {type: variant, offset: 61, length: 13, content: 治天下者一道徳同風俗蓋九州, WYG: 舊崇文總目云所載皆戰國秦漢間事以今考}
+  - {type: variant, offset: 75, length: 38, content: 廣萬民之衆千歳之遠其教旣明其政旣成之後所守者一道所傳者一説而己故詩書之文歷世, WYG: 春秋時事尤多漢事不過}
+  - {type: 'kr:newline', offset: 77, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 77, content: '', id: KR3a0008_SBCK_000-1a08}
+  - {type: 'kr:newline', offset: 95, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 95, content: '', id: KR3a0008_SBCK_000-1a09}
+  - {type: 'kr:newline', offset: 113, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 113, content: '', id: KR3a0008_SBCK_000-1a10}
+  - {type: variant, offset: 114, length: 65, content: 十作者非一而言未甞不相爲終始化之如此其至也當是之時異行者有誅異言者有禁防之又如此其備也故二帝三王之際及其中間甞更衰亂而餘澤未熄之時, WYG: 條大抵採}
+  - {type: 'kr:newline', offset: 131, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 131, content: '', id: KR3a0008_SBCK_000-1a11}
+  - {type: 'kr:newline', offset: 149, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 149, content: '', id: KR3a0008_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 149, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 149, content: '', id: KR3a0008_SBCK_000-1b01}
+  - {type: 'kr:newline', offset: 167, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 167, content: '', id: KR3a0008_SBCK_000-1b02}
+  - {type: variant, offset: 181, length: 6, content: 衆説未有能岀, WYG: 傳記以類相從故頗與春秋内外傳戰國䇿太史公書互相出入髙似孫子畧謂先秦古書甫脫燼刼一入向筆采擷不遺至}
+  - {type: page-break, offset: 181, content: '', id: KR3a0008_WYG_000-2a, image: WYG0696/WYG0696-0188a.png}
+  - {type: 'kr:newline', offset: 185, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 185, content: '', id: KR3a0008_SBCK_000-1b03}
+  - {type: variant, offset: 188, length: 11, content: 間者也及周之末世先王之, WYG: 正紀綱廸}
+  - {type: variant, offset: 201, length: 9, content: 法度旣廢餘澤旣熄世, WYG: 辨邪正黜異端以為漢規監者盡在此書其言雖推崇已甚要其推明古訓以衷}
+  - {type: 'kr:newline', offset: 203, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 203, content: '', id: KR3a0008_SBCK_000-1b04}
+  - {type: variant, offset: 211, length: 186, content: 治方術者蓋得其一偏故人奮其私意家尚其私學者蠭起於中國皆明其所長而昧其所短務其所得而諱其所失天下之士各自爲言而不能相通世人之不復知夫學之有統道之有歸也先王之遺文雖在皆絀而不講况至於秦爲世所大禁哉漢興六藝皆得於散絶殘脱之餘世復無明先王之道爲衆説之所蔽闇而不明鬰而不發而怪竒可喜之論各師異見皆自名家者誕漫於中國一切不異於周之末世其弊至於今尚在也自斯以來天下學者知折衷於聖人而能純, WYG: ''}
+  - {type: 'kr:newline', offset: 221, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 221, content: '', id: KR3a0008_SBCK_000-1b05}
+  - {type: 'kr:newline', offset: 239, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl17}
+  - {type: line-break, offset: 239, content: '', id: KR3a0008_SBCK_000-1b06}
+  - {type: 'kr:newline', offset: 257, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl18}
+  - {type: line-break, offset: 257, content: '', id: KR3a0008_SBCK_000-1b07}
+  - {type: 'kr:newline', offset: 275, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl19}
+  - {type: line-break, offset: 275, content: '', id: KR3a0008_SBCK_000-1b08}
+  - {type: 'kr:newline', offset: 293, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl20}
+  - {type: line-break, offset: 293, content: '', id: KR3a0008_SBCK_000-1b09}
+  - {type: 'kr:newline', offset: 311, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 311, content: '', id: KR3a0008_SBCK_000-1b10}
+  - {type: 'kr:newline', offset: 329, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl22}
+  - {type: line-break, offset: 329, content: '', id: KR3a0008_SBCK_000-1b11}
+  - {type: 'kr:newline', offset: 347, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl23}
+  - {type: page-break, offset: 347, content: '', id: KR3a0008_SBCK_000-2a}
+  - {type: 'kr:newline', offset: 347, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl24}
+  - {type: line-break, offset: 347, content: '', id: KR3a0008_SBCK_000-2a01}
+  - {type: 'kr:newline', offset: 365, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl25}
+  - {type: line-break, offset: 365, content: '', id: KR3a0008_SBCK_000-2a02}
+  - {type: 'kr:newline', offset: 383, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl26}
+  - {type: line-break, offset: 383, content: '', id: KR3a0008_SBCK_000-2a03}
+  - {type: variant, offset: 390, length: 1, content: 衷, SBCK: 􅇆}
+  - {type: variant, offset: 400, length: 0, content: '', WYG: 仁義在諸子中猶不失為儒者}
+  - {type: 'kr:newline', offset: 401, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl27}
+  - {type: line-break, offset: 401, content: '', id: KR3a0008_SBCK_000-2a04}
+  - {type: variant, offset: 401, length: 1, content: 羙, WYG: 言也葉大慶考古質疑摘其昭奚恤對秦使}
+  - {type: variant, offset: 403, length: 8, content: 楊雄氏而止耳如向, WYG: 一條所稱司馬子反在奚恤前二百二十年葉公子髙令尹子西在奚恤前一百三十年均非同時}
+  - {type: page-break, offset: 403, content: '', id: KR3a0008_WYG_000-2b, image: WYG0696/WYG0696-0188b.png}
+  - {type: variant, offset: 412, length: 17, content: 徒皆不免爲衆説之蔽而不知有折衷者也, WYG: 人又摘其誤以}
+  - {type: 'kr:newline', offset: 419, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl28}
+  - {type: line-break, offset: 419, content: '', id: KR3a0008_SBCK_000-2a05}
+  - {type: variant, offset: 426, length: 1, content: 衷, SBCK: 􅇆}
+  - {type: variant, offset: 431, length: 3, content: 曰待文, WYG: 論好色好勇為對梁恵}
+  - {type: variant, offset: 435, length: 0, content: '', WYG: 皆切中其失至大慶謂黍離乃周詩新序誤云衛宣公之子夀閔其兄且見害}
+  - {type: variant, offset: 436, length: 8, content: 後興者凡民也豪傑, WYG: 作則殊不然向本學魯詩而大慶以毛詩繩}
+  - {type: 'kr:newline', offset: 437, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl29}
+  - {type: line-break, offset: 437, content: '', id: KR3a0008_SBCK_000-2a06}
+  - {type: variant, offset: 445, length: 104, content: 士雖無文王猶興漢之士豈特無明先王之道以一之者哉亦其岀於是時者豪傑之士少故不能特起於流俗之中絶學之後也蓋向之序此書於今最爲近古雖不能無失然逺至舜禹而次及於周秦以來古人之嘉言善行亦徃徃而在也要在愼取之而巳故臣旣惜, WYG: ''}
+  - {type: 'kr:newline', offset: 455, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl30}
+  - {type: line-break, offset: 455, content: '', id: KR3a0008_SBCK_000-2a07}
+  - {type: 'kr:newline', offset: 473, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl31}
+  - {type: line-break, offset: 473, content: '', id: KR3a0008_SBCK_000-2a08}
+  - {type: 'kr:newline', offset: 491, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl32}
+  - {type: line-break, offset: 491, content: '', id: KR3a0008_SBCK_000-2a09}
+  - {type: 'kr:newline', offset: 509, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl33}
+  - {type: line-break, offset: 509, content: '', id: KR3a0008_SBCK_000-2a10}
+  - {type: 'kr:newline', offset: 527, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl34}
+  - {type: line-break, offset: 527, content: '', id: KR3a0008_SBCK_000-2a11}
+  - {type: 'kr:newline', offset: 545, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl35}
+  - {type: page-break, offset: 545, content: '', id: KR3a0008_SBCK_000-2b}
+  - {type: 'kr:newline', offset: 545, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl36}
+  - {type: line-break, offset: 545, content: '', id: KR3a0008_SBCK_000-2b01}
+  - {type: variant, offset: 551, length: 4, content: 可見者而, WYG: 合也固宜是則未考漢儒專門授受之學矣乾隆四十六年九月恭}
+  - {type: variant, offset: 556, length: 11, content: 其可見者特詳焉亦足以知, WYG: 上總纂官}
+  - {type: 'kr:newline', offset: 563, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl37}
+  - {type: line-break, offset: 563, content: '', id: KR3a0008_SBCK_000-2b02}
+  - {type: variant, offset: 568, length: 8, content: 之志者豈好辯哉蓋, WYG: 紀昀}
+  - {type: variant, offset: 577, length: 6, content: 之不得已也編, WYG: 陸錫熊臣孫士毅總}
+  - {type: page-break, offset: 577, content: '', id: KR3a0008_WYG_000-3a, image: WYG0696/WYG0696-0188c.png}
+  - {type: 'kr:newline', offset: 581, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl38}
+  - {type: line-break, offset: 581, content: '', id: KR3a0008_SBCK_000-2b03}
+  - {type: variant, offset: 584, length: 0, content: '', WYG: 官臣陸費墀欽定四庫全}
+  - {type: page-break, offset: 584, content: '', id: KR3a0008_WYG_001-1a, image: WYG0696/WYG0696-0189a.png}
+  - {type: variant, offset: 585, length: 5, content: 籍臣曽鞏上, WYG: ''}
+  - {type: 'kr:newline', offset: 590, content: '
+
+      ', id: KR3a0008_krp_000-bkkkrnewl39}
+  back: []
+hash: sha256:ced83de37022890201ad92b61f1fb8951639934bc98cc7d006f7e7ba1957b071
