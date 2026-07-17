@@ -640,6 +640,7 @@ markers:
   - {type: variant, offset: 2158, length: 1, content: 瓜, WYG: 𤓰}
   - {type: punctuation, offset: 2170, content: (, id: KR3a0008_krp_004-bkkpn1}
   - {type: variant, offset: 2170, length: 4, content: 御名太上, WYG: 搆}
+  - {type: voice, offset: 2170, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2172, content: /, id: KR3a0008_krp_004-bkkpn2}
   - {type: punctuation, offset: 2174, content: ), id: KR3a0008_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 2176, content: '
@@ -1486,4 +1487,4 @@ markers:
 
       ', id: KR3a0008_krp_004-bkkkrnewl328}
   back: []
-hash: sha256:d23f11987c882e74c2cb918ff11c382aa223bbaf7bf98b582b276141a6954ac6
+hash: sha256:8321d39361177eebf5f28fe31539a5537f6a0479394173c7f925d633fed3ff2f
