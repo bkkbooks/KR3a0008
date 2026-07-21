@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR3a0008_008-CHANT.yaml, hash: 'sha256:ac0f5a11ae5b9bd3d9cbe1eda896fa4ef880f492cb4a3920905f4dc30df892ea'}
   - {seq: 9, filename: KR3a0008_009-CHANT.yaml, hash: 'sha256:a1dae455ec6a30ce018fd871102f5db5d65fb989dab36b2abb4dff89ccaea2f1'}
   - {seq: 10, filename: KR3a0008_010-CHANT.yaml, hash: 'sha256:5628e8756e3f52ec3c31eaff6be0a98c6b8ae8a71252206ba36f5a75ab2c8ede'}
-  - {seq: 11, filename: KR3a0008_011-CHANT.yaml, hash: 'sha256:56b216b87a86371c8393463917f104f68fe681e8038efa8ed0153fa80e7c06b1'}
+  - {seq: 11, filename: KR3a0008_011-CHANT.yaml, hash: 'sha256:c0599f830c31f78ac373cfd82f136750c6988064f1e38b67e48dffa17f10bad7'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3a0008_001-CHANT.markers.yaml, hash: 'sha256:dfe629e876e68f321476dfeea4a01d7e0c207c9e45e2d5acb14e2b65185b8616'}
   - {seq: 2, role: markers, filename: assets/KR3a0008_002-CHANT.markers.yaml, hash: 'sha256:d9ed84d50eba00ff68850ed5de9cebef8d704a7f973b27d348668ec123f786dc'}
@@ -42,7 +42,7 @@ assets:
   - {seq: 8, role: markers, filename: assets/KR3a0008_008-CHANT.markers.yaml, hash: 'sha256:4462417aaae6e4ccc7cc822104dcc4fc522e7053584c6fd127b26e5af63afdfb'}
   - {seq: 9, role: markers, filename: assets/KR3a0008_009-CHANT.markers.yaml, hash: 'sha256:105750ebe449c840ec92b306323bba92d8788c2b4973872d2ec79909b42a46e4'}
   - {seq: 10, role: markers, filename: assets/KR3a0008_010-CHANT.markers.yaml, hash: 'sha256:419d99d00e9accdadd8f02e2b3637eab1f9a379fb0d55f8909afc6811e6d3333'}
-  - {seq: 11, role: markers, filename: assets/KR3a0008_011-CHANT.markers.yaml, hash: 'sha256:5187683ee5214c6efec6f4e9153bcdf083567eb3322188cfed9af9cb8a2a29b3'}
+  - {seq: 11, role: markers, filename: assets/KR3a0008_011-CHANT.markers.yaml, hash: 'sha256:e7caaa6aed1d03a3dc78c09aee51a591bae119a76685f5a6d6ace619d4209a91'}
 table_of_contents:
 - ref:
     seq: 1
@@ -148,10 +148,10 @@ table_of_contents:
     seq: 11
     marker_id: KR3a0008_CHANT_011-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 5031
   label: 新序佚文輯
   type: section
   level: 1
-hash: sha256:664b28277a7cad3b20438f07d40d1be45990a8f6fbdcc98c22b9adec0019bd4f
+hash: sha256:c911d2692dd6256a0048fc710b6dcf81a5e1f3a38fd39848466716c972a72ca6
